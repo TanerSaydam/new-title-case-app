@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'new-title-case-app';
+
+  text: string = "";
 }
